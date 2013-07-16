@@ -1,0 +1,4 @@
+config.json
+*.exe
+build/*
+.DS_Store
